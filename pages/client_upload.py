@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from io import BytesIO, StringIO
 from openai import OpenAI
 from PIL import Image
