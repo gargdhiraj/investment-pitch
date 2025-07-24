@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+mysql-connector-python
+numpy
+openai
+pandas==2.3.0
+python-decouple==3.8
+streamlit==1.46.1
